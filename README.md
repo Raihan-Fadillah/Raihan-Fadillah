@@ -16,7 +16,8 @@ Seorang pengembang web dari Tasikmalaya yang sedang mengembangkan proyek *Rangel
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-<h3>👨‍💻 Proyek Rangelofficial tersedia di</h3> [https://github.com/rangelofficial](https://github.com/rangelofficial)
+<h3>👨‍💻 Proyek Rangelofficial tersedia di</h3>
+[https://github.com/rangelofficial](https://github.com/rangelofficial)
 
 <div align="center"> <img src="https://raw.githubusercontent.com/Rangelofficial/Uploade-db/main/uploader/1734450138640.jpg"> </div>
 
