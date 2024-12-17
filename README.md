@@ -3,6 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
+<h3 align="left">Putar Lagu Favorit:</h3>
+<audio controls>
+  <source src="https://raw.githubusercontent.com/Rangelofficial/Uploade-db/main/uploader/1734461527091.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 <h3 align="left">Hubungi Saya:</h3>
 <p align="left">
