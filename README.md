@@ -4,10 +4,8 @@
 
 ---
 <h3 align="left">Putar Lagu Favorit:</h3>
-<audio controls>
-  <source src="https://raw.githubusercontent.com/Rangelofficial/Uploade-db/main/uploader/1734461527091.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<p>Klik link di bawah ini untuk memutar lagu favorit saya:</p>
+<p><a href="https://raw.githubusercontent.com/Rangelofficial/Uploade-db/main/uploader/1734461527091.mp3" target="_blank">Putar Lagu</a></p>
 
 <h3 align="left">Hubungi Saya:</h3>
 <p align="left">
