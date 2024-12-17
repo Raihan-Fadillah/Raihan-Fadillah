@@ -31,6 +31,10 @@
 </a>
 </p>
 
+<div align="center"> 
+    <img src="https://raw.githubusercontent.com/Rangelofficial/Uploade-db/main/uploader/1734462234008.jpg" alt="Rangelofficial Project" width="500">
+</div>
+
 ---
 
 <h3 align="center">👨‍💻 Proyek Rangelofficial</h3>
