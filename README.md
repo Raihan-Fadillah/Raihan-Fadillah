@@ -1,5 +1,5 @@
 <h1 align="center">Halo Semua 👋, Saya Raihan Fadillah</h1>
-<p align="center">Seorang pengembang web dari Tasikmalaya yang sedang mengembangkan proyek <i>Rangelofficial</i> dan Ehz Store.</p>
+<p align="center">Seorang pelajar ototidak yang ingin tahu tentang web,yang sedang mengembangkan proyek <i>Rangelofficial</i> dan Ehz Store.</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
