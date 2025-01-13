@@ -1,10 +1,10 @@
 <h1 align="center">Halo Semua 👋, Saya Raihan Fadillah</h1>
-<p align="center">Seorang pelajar ototidak yang ingin tahu tentang web,yang sedang mengembangkan proyek <i>Rangelofficial</i> dan Ehz Store.</p>
+<p align="center">Seorang pelajar ototidak 🐦.</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
-<h3 align="left">Hubungi Saya:</h3>
+<h3 align="left">Contact Saya:</h3>
 <p align="left">
 <a href="https://wa.me/6281316643491" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="left">Bahasa Pemrograman dan Alat yang Saya Gunakan:</h3>
+<h3 align="left">Sedang Memahami Bahasa:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 Proyek Ehz Store</h3>
+<h3 align="center">🛍️ Ehz Store</h3>
 <p align="center">
 <a href="https://rangelofficial.github.io/RaihanFadillah/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Kunjungi%20Situs%20Ehz%20Store-green?style=for-the-badge&logo=shopify&logoColor=white" alt="ehzstore-site"/>
@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 Proyek Rangelofficial</h3>
+<h3 align="center">👨‍💻 Rangelofficial</h3>
 <p align="center">
 <a href="https://github.com/rangelofficial" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Login%20GitHub%20Rangelofficial-blue?style=for-the-badge&logo=github&logoColor=white" alt="github-login"/>
