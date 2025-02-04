@@ -15,15 +15,6 @@
 
 ---
 
-<h3 align="left">Sedang Memahami Bahasa:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
-
----
-
 <h3 align="center">🛍️ Ehz Store</h3>
 <p align="center">
 <a href="https://rangelofficial.github.io/RaihanFadillah/" target="_blank">
@@ -48,20 +39,5 @@
     <img src="https://raw.githubusercontent.com/Rangelofficial/Uploade-db/main/uploader/1735154206994.jpg" alt="Rangelofficial Project" width="500">
 </div>
 
----
 
-### 📺 **Latest YouTube Videos** (Rangelbot Channel)
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![🚀 Update Menhera MD v6.0.0! Tampilan Baru & Fitur Terbaru](https://ytcards.demolab.com/?id=jMJFE_oqmfM&title=🚀+Update+Menhera+MD+v6.0.0!+Tampilan+Baru+&+Fitur+Terbaru&lang=id&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=1106)](https://youtu.be/jMJFE_oqmfM?si=R46dJPm-KIG4zV3p)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA?sub_confirmation=1)
-
----
-
-### 📊 **Stats**
-
-![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangelofficial&show_icons=true&theme=gruvbox)
-
----
