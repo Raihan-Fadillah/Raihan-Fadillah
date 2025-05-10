@@ -14,7 +14,7 @@ Ini adalah repositori pribadi saya, tempat saya menyimpan berbagai project dan e
 Kalau kamu ingin ngobrol atau kolaborasi, silakan hubungi saya:
 
 - 📱 WhatsApp: [Klik di sini](https://wa.me/6281316643491)
-- 🌐 Instagram: [klik disini]([https://www.instagram.com/rangelofficial.id])
+- 🌐 Instagram: [klik disini](https://www.instagram.com/rangelofficial.id)
 - 📸 TikTok & YouTube: Cari aja **@officialehz**
 
 ---
